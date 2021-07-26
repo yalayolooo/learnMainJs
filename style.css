@@ -1,0 +1,13 @@
+#root {
+  margin-top: 15%;
+  margin-left: 35%;
+  margin-right: 45%;
+  color: rgb(74, 85, 85);
+  border: solid rgb(202, 202, 202);
+  text-align: center;
+}
+
+.greeting{
+  font-size: large;
+  font-weight: 600;
+}
